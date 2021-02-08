@@ -1,2 +1,2 @@
 # ProiectIA2
-Problema blocurilot cu greutati
+Problema blocurilor cu greutati
